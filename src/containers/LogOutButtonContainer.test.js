@@ -8,7 +8,7 @@ import { logout } from '../actions/session'
 describe("LogOutButtonContainer", () => {
   const mockState = {
     session: {
-      logoutText: "Test name"
+      logoutText: "Log me out"
     }
   };
 
